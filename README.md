@@ -1,4 +1,6 @@
 # Instruction for running the project
+## A note:
+This is the CSE163 final project from Liuyixin Shao. This project is graded as 8/8 in Summer 2022. For more details, please see report.pdf.
 ## Introduction from the author:
 This project has a total of four coding files, which are `final.py`, `data_cleaning.py`, `test.py`, and `testing.r`. Among them, the main file is the `final.py`, which contains all the code needed for the reaserch questions and __is the one that you only have to run before testing__. The `data_cleaning.py` is the file I used for data cleaning before the actual coding. The `testing.r` is the file I used for testing my code for research question 1 and 2 and the `test.py` is the python file I used for exporting testing datasets as well as testing my code for research question 4. The code used for testing is very simple to understand, and in the next paragraphs I will also provide detailed instructions to help readers using RStudio for testing.
 ## To set up the project, you need to:   
